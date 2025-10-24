@@ -1,0 +1,1 @@
+# counter-strike-2-wallviewer-antyhead-config-visual-characters-editor
